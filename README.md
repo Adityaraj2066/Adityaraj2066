@@ -64,4 +64,4 @@ I’m passionate about solving real-world problems, learning new technologies, a
 ## 📫 Connect with Me  
 📧 **Email:** adityaraj111003@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/adityaraj](https://linkedin.com/in/adityaraj)  
-💻 **GitHub:** [github.com/your-username](https://github.com/your-username)  
+💻 **GitHub:** [github.com/your-username](https://github.com/Adityaraj2066)  
