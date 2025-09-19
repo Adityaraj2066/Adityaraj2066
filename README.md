@@ -1,74 +1,67 @@
-# 👋 Hi, I'm Aditya Raj
+# 👋 Hi, I'm Aditya Raj  
 
 🎓 B.E. in Electronics & Communication Engineering (Passout: 2025)  
-💻 Aspiring Associate Software Engineer | Java Developer | Problem Solver  
-📍 Based in Bengalore, India  
+💻 Aspiring Software Engineer | Java Developer | Problem Solver  
+📍 Bangalore, India  
 
 ---
 
-## 🚀 About Me
-
-I’ve recently completed my B.E. in **Electronics & Communication Engineering (2025 Passout)** and specialize in **Java development**, **SQL**, and **desktop application design**. 
-
-I’ve built a **Java Swing–MySQL based Employee Management System**, showcasing practical skills in backend development, database integration, and GUI design.
-
-I'm a quick learner, team player, and excited to start contributing to impactful software engineering teams.
+## 🚀 About Me  
+I’m an entry-level software engineer skilled in **Java, Spring Boot, Swing, and MySQL**.  
+I have hands-on experience building **REST APIs, CRUD applications, and real-time systems**.  
+I’m passionate about solving real-world problems, learning new technologies, and writing clean, maintainable code.  
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Languages:** Java, SQL  
-- **Database:** MySQL  
-- **Tools & IDEs:** GitHub, NetBeans, VS Code  
-- **Concepts:** OOPs, DSA, CRUD, JDBC  
-- **Soft Skills:** Time Management, Problem-Solving, Collaboration  
-
----
-
-## 💼 Highlight Project
-
-### 🔹 [Employee Management System](https://github.com/Adityaraj2066/Employee-Management-System)
-> 📁 A full-fledged desktop application built using Java Swing and MySQL, focused on CRUD operations for managing employee records.
-
-- 🧩 GUI developed using **Java Swing**
-- 🔌 Backend integrated via **JDBC with MySQL**
-- ⚙️ CRUD functionalities: **Create, Read, Update, Delete**
-- 📊 Designed to simplify HR/admin tasks and reduce manual effort
-
-**Tech Stack:** Java • JDBC • MySQL • Java Swing • NetBeans
+## 🛠️ Skills  
+- **Languages:** Java  
+- **Frameworks & Libraries:** Spring Boot, JPA, Swing  
+- **Databases:** MySQL  
+- **Tools:** Maven, GitHub, NetBeans  
+- **Testing:** JUnit, Spring Test  
+- **Core Concepts:** OOP, REST APIs, WebSockets, CRUD Operations  
 
 ---
 
-## 🧠 Certifications & Learning
-
-- 🎓 [Data Structures & Algorithms in Java – Coding Ninjas](https://naukri.com/code360/aditya-raj-profile)  
-- ✅ Solved **130+ DSA problems** on LeetCode, GFG, and CodeStudio  
-- 💡 Strong grasp of DSA, OOPs, and Java backend logic  
-
----
-
-## 📚 Education
-
-**Bachelor of Engineering (B.E)** – Electronics & Communication  
-📍 University Institute of Technology, Burdwan University  
-📆 August 2021 – June 2025 (Passout)
+## 💼 Experience  
+**Software Development Intern** – *Nimblix Technologies* (May 2024 – Jul 2024)  
+- Built and tested Java applications with CRUD functionality.  
+- Worked with **Spring Boot, JDBC, and MySQL** for backend development.  
+- Collaborated with mentors on debugging, code reviews, and feature enhancements.  
+- Documented workflows and contributed code via GitHub.  
 
 ---
 
-## 🏆 Achievements & Leadership
+## 📂 Projects  
+### 🚚 Freight Tracker System (2025)  
+**Tech:** Java, Spring Boot, JPA, WebSocket, Maven  
+- Built a **real-time freight shipment tracking system** using WebSockets.  
+- Designed REST APIs and integrated database models with Spring Data JPA.  
+- Added unit & integration tests with JUnit and Spring Test.  
 
-- ♟️ 4th Place – Inter-School Chess Competition  
-- 🧑‍🏫 Mentored juniors in strategy and decision-making under pressure  
+### 👨‍💼 Employee Management System (2024)  
+**Tech:** Java, Swing, MySQL, JDBC, NetBeans  
+- Desktop app for managing employee data.  
+- Designed a **GUI with Java Swing** and integrated MySQL using JDBC.  
+- Implemented full CRUD operations to streamline admin tasks.  
 
 ---
 
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-raj007/)
-- 📧 Email: adityaraj111003@gmail.com  
-- 🌐 [Coding Profile](https://naukri.com/code360/aditya-raj-profile)
+## 🎓 Education  
+**B.E. in Electronics & Communication Engineering**  
+*University Institute of Technology, Burdwan University (2021–2025)*  
 
 ---
 
-> 🔍 Actively seeking full-time opportunities as an **Associate Software Engineer**, **Java Developer**, or **Backend Developer**. Open to relocate and eager to contribute!
+## 📜 Certifications  
+- Java (Intermediate) – HackerRank (2024)  
+- SQL (Intermediate) – HackerRank (2024)  
+- Introduction to Java – Coding Ninjas (2023)  
+- 300+ Problems Solved on LeetCode, GeeksforGeeks, Coding Ninjas  
+
+---
+
+## 📫 Connect with Me  
+📧 **Email:** adityaraj111003@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/adityaraj](https://linkedin.com/in/adityaraj)  
+💻 **GitHub:** [github.com/your-username](https://github.com/your-username)  
