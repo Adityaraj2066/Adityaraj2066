@@ -2,7 +2,7 @@
 
 🎓 B.E. in Electronics & Communication Engineering (Passout: 2025)  
 💻 Aspiring Associate Software Engineer | Java Developer | Problem Solver  
-📍 Based in Kolkata, India  
+📍 Based in Bengalore, India  
 
 ---
 
